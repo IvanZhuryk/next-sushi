@@ -1,0 +1,1383 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-vugor-700x700.jpg",
+      "price": 277,
+      "size": 315,
+      "title": "XL ФІЛАДЕЛЬФІЯ З ВУГРЕМ"
+    },
+    {
+      "id": "2",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-losos-700x700.jpg",
+      "price": 239,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ"
+    },
+    {
+      "id": "3",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-kopch-losos-700x700.jpg",
+      "price": 269,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "4",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-krevetka-700x700.jpg",
+      "price": 232,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "5",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/filadelfijasirna-700x700.jpg",
+      "price": 177,
+      "size": 265,
+      "title": "ФІЛАДЕЛЬФІЯ СИРНА"
+    },
+    {
+      "id": "6",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/filakunzhutnew-700x700.jpg",
+      "price": 167,
+      "size": 240,
+      "title": "ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ В КУНЖУТІ"
+    },
+    {
+      "id": "7",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/filadelfijagril-700x700.jpg",
+      "price": 213,
+      "size": 275,
+      "title": "ФІЛАДЕЛЬФІЯ ГРИЛЬ"
+    },
+    {
+      "id": "8",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-losos-700x700.jpg",
+      "price": 199,
+      "size": 260,
+      "title": "ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ"
+    },
+    {
+      "id": "9",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-kopch-losos-700x700.jpg",
+      "price": 229,
+      "size": 260,
+      "title": "ФІЛАДЕЛЬФІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "10",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-krevetka-700x700.jpg",
+      "price": 189,
+      "size": 245,
+      "title": "ФІЛАДЕЛЬФІЯ З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "11",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-vugor-700x700.jpg",
+      "price": 237,
+      "size": 275,
+      "title": "ФІЛАДЕЛЬФІЯ З ВУГРЕМ"
+    },
+    {
+      "id": "12",
+      "category": "1",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/kaliforniacompr/kalifornija-losos-ikra-700x700.jpg",
+      "price": 169,
+      "size": 225,
+      "title": "КАЛІФОРНІЯ З ЛОСОСЕМ"
+    },
+    {
+      "id": "13",
+      "category": "1",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/kaliforniacompr/kalifornija-kopch-losos-ikra-700x700.jpg",
+      "price": 174,
+      "size": 225,
+      "title": "КАЛІФОРНІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "14",
+      "category": "1",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/kaliforniacompr/kalifornija-krevetka-ikra-700x700.jpg",
+      "price": 159,
+      "size": 220,
+      "title": "КАЛІФОРНІЯ З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "15",
+      "category": "1",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/kaliforniacompr/kalifornija-tunec-ikra-700x700.jpg",
+      "price": 159,
+      "size": 225,
+      "title": "КАЛІФОРНІЯ З ТУНЦЕМ"
+    },
+    {
+      "id": "16",
+      "category": "1",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/kaliforniacompr/kalifornija-vugor-ikra-700x700.jpg",
+      "price": 199,
+      "size": 235,
+      "title": "КАЛІФОРНІЯ З ВУГРЕМ"
+    },
+    {
+      "id": "17",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2022/dragons/chornijdrakon-700x700.jpg",
+      "price": 282,
+      "size": 330,
+      "title": "ЧОРНИЙ ДРАКОН"
+    },
+    {
+      "id": "18",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/dragonscompr/vognjanij-drakon-700x700.jpg",
+      "price": 297,
+      "size": 310,
+      "title": "ВОГНЯНИЙ ДРАКОН"
+    },
+    {
+      "id": "19",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/dragonscompr/zelenij-drakon-700x700.jpg",
+      "price": 111,
+      "size": 270,
+      "title": "ЗЕЛЕНИЙ ДРАКОН"
+    },
+    {
+      "id": "20",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/dragonscompr/zolotij-drakon-700x700.jpg",
+      "price": 319,
+      "size": 325,
+      "title": "ЗОЛОТИЙ ДРАКОН"
+    },
+    {
+      "id": "21",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/dragonscompr/tigrovij-drakon-700x700.jpg",
+      "price": 272,
+      "size": 300,
+      "title": "ТИГРОВИЙ ДРАКОН"
+    },
+    {
+      "id": "22",
+      "category": "1",
+      "type": "4",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/dragonscompr/chervonij-drakon-700x700.jpg",
+      "price": 272,
+      "size": 330,
+      "title": "ЧЕРВОНИЙ ДРАКОН"
+    },
+    {
+      "id": "23",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2022/39rols/grilrol-700x700.jpg",
+      "price": 244,
+      "size": 295,
+      "title": "ГРИЛЬ РОЛ"
+    },
+    {
+      "id": "24",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/firmovijzlososemnew-700x700.jpg",
+      "price": 262,
+      "size": 270,
+      "title": "ФІРМОВИЙ З ЛОСОСЕМ"
+    },
+    {
+      "id": "25",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/avokado-rol-700x700.jpg",
+      "price": 174,
+      "size": 240,
+      "title": "АВОКАДО РОЛ"
+    },
+    {
+      "id": "26",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/rol-z-lossem-ta-krevetkoju-700x700.jpg",
+      "price": 289,
+      "size": 275,
+      "title": "РОЛ З ЛОСОСЕМ ТА КРЕВЕТКОЮ"
+    },
+    {
+      "id": "27",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/sirnij-z-kopchenim-lososem-700x700.jpg",
+      "price": 162,
+      "size": 250,
+      "title": "СИРНИЙ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "28",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/rol-z-vugrem-ta-avokado-700x700.jpg",
+      "price": 198,
+      "size": 250,
+      "title": "РОЛ З ВУГРЕМ ТА АВОКАДО"
+    },
+    {
+      "id": "29",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/rol4siri-700x700.jpg",
+      "price": 125,
+      "size": 255,
+      "title": "РОЛ 4 СИРИ"
+    },
+    {
+      "id": "30",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/sirnij-700x700.jpg",
+      "price": 115,
+      "size": 230,
+      "title": "СИРНИЙ"
+    },
+    {
+      "id": "31",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/z-hamonom-700x700.jpg",
+      "price": 125,
+      "size": 225,
+      "title": "З ХАМОНОМ"
+    },
+    {
+      "id": "32",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/39compr/rol-miks-700x700.jpg",
+      "price": 249,
+      "size": 270,
+      "title": "РОЛ МІКС"
+    },
+    {
+      "id": "33",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/futomakicompr/futomaki-losos-700x700.jpg",
+      "price": 164,
+      "size": 220,
+      "title": "ФУТОМАКІ З ЛОСОСЕМ"
+    },
+    {
+      "id": "34",
+      "category": "1",
+      "type": "5",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/futomakicompr/futomaki-kopch-losos-700x700.jpg",
+      "price": 174,
+      "size": 220,
+      "title": "ФУТОМАКІ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "35",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/0003_-700x700.jpg",
+      "price": 214,
+      "size": 310,
+      "title": "ГАРЯЧИЙ З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "36",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/garjachij-z-lososem-700x700.jpg",
+      "price": 169,
+      "size": 265,
+      "title": "ГАРЯЧИЙ РОЛ З ЛОСОСЕМ"
+    },
+    {
+      "id": "37",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/garjachij-z-vugrem-700x700.jpg",
+      "price": 189,
+      "size": 270,
+      "title": "ГАРЯЧИЙ РОЛ З ВУГРЕМ"
+    },
+    {
+      "id": "38",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/garjachij-z-kurkoju-700x700.jpg",
+      "price": 124,
+      "size": 260,
+      "title": "ГАРЯЧИЙ РОЛ З КУРКОЮ"
+    },
+    {
+      "id": "39",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/krevetkatempura-700x700.jpg",
+      "price": 170,
+      "size": 140,
+      "title": "КРЕВЕТКИ ТЕМПУРА"
+    },
+    {
+      "id": "40",
+      "category": "1",
+      "type": "6",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/garjachij-sirnij-zzhata-700x700.jpg",
+      "price": 119,
+      "size": 300,
+      "title": "ГАРЯЧИЙ СИРНИЙ"
+    },
+    {
+      "id": "41",
+      "category": "1",
+      "type": "7",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/sushiburglosos-700x700.jpg",
+      "price": 189,
+      "size": 360,
+      "title": "СУШІ БУРГЕР ЛОСОСЬ"
+    },
+    {
+      "id": "42",
+      "category": "1",
+      "type": "7",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/sushibergkrevetka-700x700.jpg",
+      "price": 209,
+      "size": 360,
+      "title": "СУШІ БУРГЕР З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "43",
+      "category": "1",
+      "type": "7",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/hotcompr/sushiburgerchicken-700x700.jpg",
+      "price": 179,
+      "size": 350,
+      "title": "СУШІ БУРГЕР З КУРКОЮ"
+    },
+    {
+      "id": "44",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makifila-700x700.jpg",
+      "price": 89,
+      "size": 115,
+      "title": "МАКІ ФІЛАДЕЛЬФІЯ"
+    },
+    {
+      "id": "45",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makiogirok-700x700.jpg",
+      "price": 59,
+      "size": 100,
+      "title": "МАКІ З ОГІРКОМ"
+    },
+    {
+      "id": "46",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makiavokado-700x700.jpg",
+      "price": 59,
+      "size": 100,
+      "title": "МАКІ З АВОКАДО"
+    },
+    {
+      "id": "47",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makiavokado-700x700.jpg",
+      "price": 59,
+      "size": 100,
+      "title": "МАКІ З АВОКАДО"
+    },
+    {
+      "id": "48",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makizspirulinoju-700x700.jpg",
+      "price": 68,
+      "size": 105,
+      "title": "МАКІ З СПІРУЛІНОЮ"
+    },
+    {
+      "id": "49",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makikopchlos-700x700.jpg",
+      "price": 89,
+      "size": 105,
+      "title": "МАКІ З ЛОСОСЕМ"
+    },
+    {
+      "id": "50",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makilosos-700x700.jpg",
+      "price": 109,
+      "size": 105,
+      "title": "МАКІ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "51",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makiztuncem-700x700.jpg",
+      "price": 94,
+      "size": 105,
+      "title": "МАКІ З ТУНЦЕМ"
+    },
+    {
+      "id": "52",
+      "category": "1",
+      "type": "8",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/makicompr/makivugor-700x700.jpg",
+      "price": 118,
+      "size": 110,
+      "title": "МАКІ З ВУГРЕМ"
+    },
+    {
+      "id": "53",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setgril-700x700.jpg",
+      "price": 555,
+      "size": 825,
+      "title": "СЕТ ГРИЛЬ"
+    },
+    {
+      "id": "54",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/setcompr/set-garjachij-xl-zzh-700x700.jpg",
+      "price": 657,
+      "size": 1040,
+      "title": "СЕТ ГАРЯЧИЙ XL"
+    },
+    {
+      "id": "55",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setkilogramovij-700x700.jpg",
+      "price": 655,
+      "size": 1025,
+      "title": "СЕТ КІЛОГРАМОВИЙ"
+    },
+    {
+      "id": "56",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setfila-700x700.jpg",
+      "price": 811,
+      "size": 1010,
+      "title": "СЕТ ФІЛАДЕЛЬФІЯ"
+    },
+    {
+      "id": "57",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setfirmovij-700x700.jpg",
+      "price": 777,
+      "size": 1035,
+      "title": "СЕТ ФІРМОВИЙ"
+    },
+    {
+      "id": "58",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setpop-700x700.jpg",
+      "price": 498,
+      "size": 830,
+      "title": "СЕТ POP"
+    },
+    {
+      "id": "59",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setmiksfil-700x700.jpg",
+      "price": 425,
+      "size": 490,
+      "title": "СЕТ МІКС ФІЛАДЕЛЬФІЙ"
+    },
+    {
+      "id": "60",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/setcompr/set-garjachij-700x700.jpg",
+      "price": 482,
+      "size": 840,
+      "title": "СЕТ ГАРЯЧИЙ"
+    },
+    {
+      "id": "61",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setkalifornija-700x700.jpg",
+      "price": 659,
+      "size": 895,
+      "title": "СЕТ КАЛІФОРНІЯ"
+    },
+    {
+      "id": "62",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setkalifornija-700x700.jpg",
+      "price": 898,
+      "size": 1410,
+      "title": "СЕТ МІКС"
+    },
+    {
+      "id": "63",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setsirnij-700x700.jpg",
+      "price": 484,
+      "size": 930,
+      "title": "СЕТ СИРНИЙ"
+    },
+    {
+      "id": "64",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setdrakoniv-700x700.jpg",
+      "price": 1111,
+      "size": 1270,
+      "title": "СЕТ ДРАКОНІВ"
+    },
+    {
+      "id": "65",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setxlfila-700x700.jpg",
+      "price": 964,
+      "size": 1200,
+      "title": "СЕТ XL ФІЛАДЕЛЬФІЯ"
+    },
+    {
+      "id": "66",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setlosos-700x700.jpg",
+      "price": 964,
+      "size": 1200,
+      "title": "СЕТ ЛОСОСЬ"
+    },
+    {
+      "id": "67",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setvegetarianskij-700x700.jpg",
+      "price": 427,
+      "size": 780,
+      "title": "СЕТ ВЕГЕТАРІАНСЬКИЙ"
+    },
+    {
+      "id": "68",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setxl-700x700.jpg",
+      "price": 1799,
+      "size": 2500,
+      "title": "СЕТ XL"
+    },
+    {
+      "id": "69",
+      "category": "1",
+      "type": "9",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/setxxl-700x700.jpg",
+      "price": 2999,
+      "size": 3505,
+      "title": "СЕТ XXL"
+    },
+    {
+      "id": "70",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/peperoni-700x700.jpg",
+      "price": 189,
+      "size": 500,
+      "title": "ПЕПЕРОНІ"
+    },
+    {
+      "id": "71",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/saljamifirmova-700x700.jpg",
+      "price": 194,
+      "size": 600,
+      "title": "САЛЯМІ ФІРМОВА"
+    },
+    {
+      "id": "72",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/mjasnagostra-700x700.jpg",
+      "price": 179,
+      "size": 495,
+      "title": "М'ЯСНА ГОСТРА"
+    },
+    {
+      "id": "73",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/saljamisirna-700x700.jpg",
+      "price": 184,
+      "size": 530,
+      "title": "САЛЯМІ СИРНА"
+    },
+    {
+      "id": "74",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/photo_5321398981948981393_y-700x700.jpg",
+      "price": 150,
+      "size": 560,
+      "title": "ОВОЧЕВА"
+    },
+    {
+      "id": "75",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija10-700x700.jpg",
+      "price": 184,
+      "size": 595,
+      "title": "АМЕРИКАНСЬКА"
+    },
+    {
+      "id": "76",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija4-700x700.jpg",
+      "price": 164,
+      "size": 460,
+      "title": "САЛЯМІ"
+    },
+    {
+      "id": "77",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija8-700x700.jpg",
+      "price": 197,
+      "size": 630,
+      "title": "КАПРИЧОЗА"
+    },
+    {
+      "id": "78",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1-700x700.jpg",
+      "price": 154,
+      "size": 450,
+      "title": "ШИНКА"
+    },
+    {
+      "id": "79",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija6-700x700.jpg",
+      "price": 117,
+      "size": 420,
+      "title": "МАРГАРИТА"
+    },
+    {
+      "id": "80",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija11-700x700.jpg",
+      "price": 169,
+      "size": 520,
+      "title": "4 СЕЗОНИ +"
+    },
+    {
+      "id": "81",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija14-700x700.jpg",
+      "price": 197,
+      "size": 560,
+      "title": "4 М'ЯСА"
+    },
+    {
+      "id": "82",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija5-700x700.jpg",
+      "price": 169,
+      "size": 470,
+      "title": "САЛЯМІ (ГОСТРА)"
+    },
+    {
+      "id": "83",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija2-700x700.jpg",
+      "price": 158,
+      "size": 580,
+      "title": "ШИНКА З ГРИБАМИ"
+    },
+    {
+      "id": "84",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija7-700x700.jpg",
+      "price": 158,
+      "size": 580,
+      "title": "КУРКА З ГРИБАМИ"
+    },
+    {
+      "id": "85",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/tunecnew-700x700.jpg",
+      "price": 174,
+      "size": 450,
+      "title": "ТУНЕЦЬ"
+    },
+    {
+      "id": "86",
+      "category": "2",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/redone/redpizza_montazhnajaoblast1kopija13-700x700.jpg",
+      "price": 184,
+      "size": 565,
+      "title": "БАВАРСЬКА"
+    },
+    {
+      "id": "87",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/filadelfija-700x700.jpg",
+      "price": 207,
+      "size": 550,
+      "title": "ПІЦА ФІЛАДЕЛЬФІЯ"
+    },
+    {
+      "id": "88",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/4siri-700x700.jpg",
+      "price": 179,
+      "size": 490,
+      "title": "4 СИРИ"
+    },
+    {
+      "id": "89",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/5siriv-700x700.jpg",
+      "price": 187,
+      "size": 510,
+      "title": "5 СИРІВ"
+    },
+    {
+      "id": "90",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/white_montazhnajaoblast1kopija-700x700.jpg",
+      "price": 184,
+      "size": 525,
+      "title": "ПРОШУТО"
+    },
+    {
+      "id": "91",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/kurkadorblju-700x700.jpg",
+      "price": 173,
+      "size": 470,
+      "title": "КУРКА ДОР БЛЮ"
+    },
+    {
+      "id": "92",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/white_montazhnajaoblast1kopija3-700x700.jpg",
+      "price": 177,
+      "size": 570,
+      "title": "ГРИБИ"
+    },
+    {
+      "id": "93",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/cezar-700x700.jpg",
+      "price": 184,
+      "size": 580,
+      "title": "ЦЕЗАР"
+    },
+    {
+      "id": "94",
+      "category": "2",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/whiteone/gavajska-700x700.jpg",
+      "price": 164,
+      "size": 485,
+      "title": "ГАВАЙСЬКА"
+    },
+    {
+      "id": "95",
+      "category": "2",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/sets2023/salami-700x700.jpg",
+      "price": 524,
+      "size": 1590,
+      "title": "СЕТ САЛЯМІ"
+    },
+    {
+      "id": "96",
+      "category": "2",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/sets2023/setpop-700x700.jpg",
+      "price": 482,
+      "size": 1530,
+      "title": "СЕТ ПОП"
+    },
+    {
+      "id": "97",
+      "category": "2",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/sets2023/mjaso-700x700.jpg",
+      "price": 524,
+      "size": 1940,
+      "title": "СЕТ М'ЯСО"
+    },
+    {
+      "id": "98",
+      "category": "2",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/sets2023/pxl-700x700.jpg",
+      "price": 999,
+      "size": 3090,
+      "title": "СЕТ XL"
+    },
+    {
+      "id": "99",
+      "category": "2",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/sets2023/pizzaxxl-700x700.jpg",
+      "price": 1525,
+      "size": 4475,
+      "title": "СЕТ XXL"
+    },
+    {
+      "id": "100",
+      "category": "3",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/wok/udonzovochami-700x700.jpg",
+      "price": 109,
+      "size": 380,
+      "title": "УДОН З ОВОЧАМИ"
+    },
+    {
+      "id": "101",
+      "category": "3",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/wok/udonzkurkoju-700x700.jpg",
+      "price": 119,
+      "size": 380,
+      "title": "УДОН З КУРКОЮ"
+    },
+    {
+      "id": "102",
+      "category": "3",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/wok/udonzkrevetkoju-700x700.jpg",
+      "price": 159,
+      "size": 380,
+      "title": "УДОН З КРЕВЕТКАМИ"
+    },
+    {
+      "id": "103",
+      "category": "4",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/salad/foto%2810%29-700x700.jpg",
+      "price": 169,
+      "size": 180,
+      "title": "З ЛОСОСЕМ"
+    },
+    {
+      "id": "104",
+      "category": "4",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/salad/foto%2811%29-700x700.jpg",
+      "price": 131,
+      "size": 200,
+      "title": "З ПРОШУТО"
+    },
+    {
+      "id": "105",
+      "category": "4",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizza/greckij-700x700.jpg",
+      "price": 99,
+      "size": 200,
+      "title": "ГРЕЦЬКИЙ"
+    },
+    {
+      "id": "106",
+      "category": "4",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizza/cezarzkurkoju-700x700.jpg",
+      "price": 109,
+      "size": 200,
+      "title": "ЦЕЗАР З КУРКОЮ"
+    },
+    {
+      "id": "107",
+      "category": "4",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/20190920_123650_hiyashi-vakame-scaled-645x497-removebg-preview-700x700.png",
+      "price": 115,
+      "size": 130,
+      "title": "САЛАТ ЗІ СПІРУЛІНОЮ"
+    },
+    {
+      "id": "108",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/maxiboks/miksboks-700x700.jpg",
+      "price": 239,
+      "size": 540,
+      "title": "СНЕК БОКС"
+    },
+    {
+      "id": "109",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/maxiboks/velikijboksfri-700x700.jpg",
+      "price": 197,
+      "size": 480,
+      "title": "ВЕЛИКИЙ БОКС КАРТОПЛІ"
+    },
+    {
+      "id": "110",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/maxiboks/velikijboksnagetsiv-700x700.jpg",
+      "price": 279,
+      "size": 600,
+      "title": "ВЕЛИКИЙ БОКС НАГЕТСІВ"
+    },
+    {
+      "id": "111",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/maxiboks/velikijbokssirnihkulok-700x700.jpg",
+      "price": 264,
+      "size": 540,
+      "title": "ВЕЛИКИЙ БОКС СИРНИХ КУЛЬОК"
+    },
+    {
+      "id": "112",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/nagetsi-700x700.jpg",
+      "price": 104,
+      "size": 200,
+      "title": "КУРЯЧІ НАГЕТСИ"
+    },
+    {
+      "id": "113",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/mozarellaball-700x700.jpg",
+      "price": 98,
+      "size": 180,
+      "title": "КУЛЬКИ МОЦАРЕЛИ"
+    },
+    {
+      "id": "114",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/dipi-700x700.jpg",
+      "price": 77,
+      "size": 160,
+      "title": "КАРТОПЛЯНІ ДІПИ"
+    },
+    {
+      "id": "115",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/dipipaprika-700x700.jpg",
+      "price": 77,
+      "size": 160,
+      "title": "КАРТОПЛЯНІ ДІПИ З ПАПРИКОЮ"
+    },
+    {
+      "id": "116",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/kartopljafri-700x700.jpg",
+      "price": 77,
+      "size": 160,
+      "title": "КАРТОПЛЯ ФРІ"
+    },
+    {
+      "id": "117",
+      "category": "5",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/pizzaphoto2022/fripaprika-700x700.jpg",
+      "price": 77,
+      "size": 160,
+      "title": "КАРТОПЛЯ ФРІ З ПАПРИКОЮ"
+    },
+    {
+      "id": "118",
+      "category": "6",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/photo_5-700x700.jpg",
+      "price": 80,
+      "size": 200,
+      "title": "БАНОФІ"
+    },
+    {
+      "id": "119",
+      "category": "6",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/photo_-2_-700x700.jpg",
+      "price": 80,
+      "size": 200,
+      "title": "ТРАЙФЛ З ВИШНЕЮ"
+    },
+    {
+      "id": "120",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/photo_2-700x700.jpg",
+      "price": 79,
+      "size": 1000,
+      "title": "НАПІЙ ЛИМОНАД КЛАСИЧНИЙ 1.0 Л"
+    },
+    {
+      "id": "121",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/photo_4-700x700.jpg",
+      "price": 79,
+      "size": 1000,
+      "title": "НАПІЙ ЛИМОНАД ЛАВАНДОВИЙ 1.0 Л"
+    },
+    {
+      "id": "122",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/photo_1-700x700.jpg",
+      "price": 79,
+      "size": 1000,
+      "title": "НАПІЙ ЛИМОНАД ПОЛУНИЧНИЙ 1.0 Л"
+    },
+    {
+      "id": "123",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/photo_3-700x700.jpg",
+      "price": 79,
+      "size": 1000,
+      "title": "НАПІЙ ЛИМОНАД МАНДАРИНОВИЙ 1.0 Л"
+    },
+    {
+      "id": "124",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/limonadklasichnij-700x700.jpg",
+      "price": 37,
+      "size": 0,
+      "title": "НАПІЙ ЛИМОНАД КЛАСИЧНИЙ 0,33 л"
+    },
+    {
+      "id": "125",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/limonadpolunichnij-700x700.jpg",
+      "price": 37,
+      "size": 0,
+      "title": "НАПІЙ ЛИМОНАД ПОЛУНИЧНИЙ 0,33 Л"
+    },
+    {
+      "id": "126",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/limonadmandarinovij-700x700.jpg",
+      "price": 37,
+      "size": 0,
+      "title": "НАПІЙ ЛИМОНАД МАНДАРИНОВИЙ 0.33 л"
+    },
+    {
+      "id": "127",
+      "category": "7",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/limonade/limonadlavandovij-700x700.jpg",
+      "price": 37,
+      "size": 0,
+      "title": "НАПІЙ ЛИМОНАД ЛАВАНДОВИЙ 0.33 л"
+    },
+    {
+      "id": "128",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/sgeaoeqy4wrseilbspimgqrp3vjorvkg-700x700.png",
+      "price": 36,
+      "size": 0,
+      "title": "Напій Coca Cola 0.5 л"
+    },
+    {
+      "id": "129",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/tq9s7eosvff2h8k0kthh6mt4xi0h36up-700x700.png",
+      "price": 36,
+      "size": 0,
+      "title": "Напій Fanta 0.5 л"
+    },
+    {
+      "id": "130",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/sprite0.5l-700x700.png",
+      "price": 36,
+      "size": 0,
+      "title": "Напій Sprite 0.5 л"
+    },
+    {
+      "id": "131",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/wgdm6zed9ocbe6mn52wgyokwpc7fhzfw-700x700.png",
+      "price": 46,
+      "size": 0,
+      "title": "Напій Coca Cola 0.75 л"
+    },
+    {
+      "id": "132",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/mxeq3r1izku7l5hyq6n0ci3jaqkmwv4r-700x700.png",
+      "price": 46,
+      "size": 0,
+      "title": "Напій Fanta 0.75 л"
+    },
+    {
+      "id": "133",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/sprite1l-700x700.png",
+      "price": 46,
+      "size": 0,
+      "title": "Напій Sprite 0.75 л"
+    },
+    {
+      "id": "134",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/mvtrqdnbfib5jzgegf95bwqiemm3yflg-700x700.png",
+      "price": 30,
+      "size": 0,
+      "title": "Напій Bonaqua негазована 0.5 л"
+    },
+    {
+      "id": "135",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/5vgixcxpzvyflfib8qeg6zii73ydholl-700x700.png",
+      "price": 40,
+      "size": 0,
+      "title": "Напій Bonaqua негазована 1 л"
+    },
+    {
+      "id": "136",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/xcury0aryovu12nvfnmedogrsjqf6kp8-700x700.png",
+      "price": 30,
+      "size": 0,
+      "title": "Напій Bonaqua сильногазована 0.5 л"
+    },
+    {
+      "id": "137",
+      "category": "7",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/ikqdvddvq1oeoev11umoaeidillcdiwu-700x700.png",
+      "price": 40,
+      "size": 0,
+      "title": "Напій Bonaqua сильногазована 1.0 л"
+    },
+    {
+      "id": "138",
+      "category": "7",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/avqrfzkwc2gklbbgqqcc7igjgsudhph9-700x700.jpg",
+      "price": 80,
+      "size": 0,
+      "title": "Сік Rich Томат 1 л"
+    },
+    {
+      "id": "139",
+      "category": "7",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/0-02-05-92964ece0e7541fa3cc618d498b19fe24dcfbc7c10aae4d43ffa0736c29e6e81_2342a4e97d1915b1-removebg-preview-700x700.png",
+      "price": 80,
+      "size": 0,
+      "title": "Сік Rich Томат 1 л"
+    },
+    {
+      "id": "140",
+      "category": "7",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/7uu4peik5lagiwphncukj9ljapgbcbth-700x700.jpg",
+      "price": 80,
+      "size": 0,
+      "title": "Сік Rich Яблуко 1 л"
+    },
+    {
+      "id": "141",
+      "category": "7",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/k0y5exqn8jdqqgc2ofppbwnl0xhmnvzv-700x700.jpg",
+      "price": 80,
+      "size": 0,
+      "title": "Сік Rich Екзотик 1 л"
+    },
+    {
+      "id": "142",
+      "category": "7",
+      "type": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/napoyi/img_1687204__1465479363.3818_-removebg-preview-700x700.png",
+      "price": 80,
+      "size": 0,
+      "title": "Сік Rich Персик 1 л"
+    }
+  ],
+  "cart": [
+    {
+      "id": "3",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-kopch-losos-700x700.jpg",
+      "price": 269,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "1",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-vugor-700x700.jpg",
+      "price": 277,
+      "size": 315,
+      "title": "XL ФІЛАДЕЛЬФІЯ З ВУГРЕМ"
+    },
+    {
+      "id": "2",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-losos-700x700.jpg",
+      "price": 239,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ"
+    },
+    {
+      "id": "3",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-kopch-losos-700x700.jpg",
+      "price": 269,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "4",
+      "category": "1",
+      "type": "1",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/xlfilacompr/xl-filadelfija-krevetka-700x700.jpg",
+      "price": 232,
+      "size": 300,
+      "title": "XL ФІЛАДЕЛЬФІЯ З КРЕВЕТКОЮ"
+    },
+    {
+      "id": "5",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/sushi2023/filadelfijasirna-700x700.jpg",
+      "price": 177,
+      "size": 265,
+      "title": "ФІЛАДЕЛЬФІЯ СИРНА"
+    },
+    {
+      "id": "6",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/filakunzhutnew-700x700.jpg",
+      "price": 167,
+      "size": 240,
+      "title": "ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ В КУНЖУТІ"
+    },
+    {
+      "id": "7",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/filadelfijagril-700x700.jpg",
+      "price": 213,
+      "size": 275,
+      "title": "ФІЛАДЕЛЬФІЯ ГРИЛЬ"
+    },
+    {
+      "id": "8",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-losos-700x700.jpg",
+      "price": 199,
+      "size": 260,
+      "title": "ФІЛАДЕЛЬФІЯ З ЛОСОСЕМ"
+    },
+    {
+      "id": "9",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-kopch-losos-700x700.jpg",
+      "price": 229,
+      "size": 260,
+      "title": "ФІЛАДЕЛЬФІЯ З КОПЧЕНИМ ЛОСОСЕМ"
+    },
+    {
+      "id": "10",
+      "category": "1",
+      "type": "2",
+      "image": "https://sushi-pizza39.com.ua/image/cache/catalog/newphotosushi/filacompr/fila-krevetka-700x700.jpg",
+      "price": 189,
+      "size": 245,
+      "title": "ФІЛАДЕЛЬФІЯ З КРЕВЕТКОЮ"
+    }
+  ]
+}
