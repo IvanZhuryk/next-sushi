@@ -22,7 +22,7 @@ export default async function CartModal (){
             <div className=' bg-white rounded-xl p-5 w-vw-30'>
                 <div className='flex flex-col'>
                     {cartItems.length? cartItems.map((item:Props)=>(
-                        <BagItem id={item.id} img={item.image} price={item.price} title={item.title} count={item.count}></BagItem>
+                        <BagItem key={item.id} id={item.id} img={item.image} price={item.price} title={item.title} count={item.count}></BagItem>
                     )):null}
                 </div>
             </div>
