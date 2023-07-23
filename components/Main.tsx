@@ -5,8 +5,8 @@ export const Main = ({
         children:React.ReactNode
     }) => {
     return (
-        <div className=" max-w-c ml-auto mr-auto">
+        <main className=" 2xl:w-1536  ml-auto mr-auto">
             {children}
-        </div>
+        </main>
     )
 }

@@ -5,6 +5,7 @@ import type { Metadata } from 'next'
 import { Finlandica} from 'next/font/google'
 import Footer from '@/components/Footer'
 import Cart from '@/components/Cart'
+import { Providers } from '@/components/Providers'
 
 const finlandica = Finlandica({ subsets: ['latin'] })
 
@@ -17,11 +18,15 @@ export default function RootLayout({ children }:{
 }) {
   return (
     <html lang="en">
-      <body className={finlandica.className}>
-      <Header><Cart></Cart></Header> 
-        {children}
-      <Footer/>
+      
+      <body className={finlandica.className}>  
+        <Providers>
+          <Header><Cart></Cart></Header> 
+            {children}
+          <Footer/>
+        </Providers> 
       </body>
+
     </html>
   )
 }

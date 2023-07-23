@@ -25,9 +25,9 @@ type ListProps = {
 export default async function DrinksItemList ({id}:ListProps) {
     const items = await getData(id)
     return (
-        <div className='flex items-center justify-start flex-wrap mt-5'>
+        <div className='flex items-center justify-around flex-wrap mt-5'>
             {items? items.map((item:Props)=>(
-                <ProductItem id={item.id} img={item.image} price={item.price} size={item.size} title={item.title}/>
+                <ProductItem key={item.id} id={item.id} img={item.image} price={item.price} size={item.size} title={item.title}/>
             )):null}
         </div>
     )

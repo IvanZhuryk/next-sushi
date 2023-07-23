@@ -5,7 +5,7 @@ import { BsFacebook, BsInstagram } from 'react-icons/bs'
 
 function Footer() {
     return (
-        <footer className='flex flex-col items-center justify-center'>
+        <footer className='flex flex-col items-center justify-center mr-auto ml-auto'>
             <Link href='/'>
                 <Image className=' mb-7' src='/logo.png' alt='logo' height={30} width={120}/>
             </Link>

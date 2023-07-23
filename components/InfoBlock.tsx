@@ -18,24 +18,24 @@ export const InfoBlock = () => {
     }
     return (
         <>
-        <div className='flex items-center'>
+        <div className='lg:flex lg:items-center hidden lg:w-120 2xl:w-150'>
             <div className='flex  mr-4 items-center cursor-pointer' >
-                <LuClock9 className=' h-6 w-6 m-1'/>
-                <span className=' font-bold'>10:00 - 21:30</span>
+                <LuClock9 className=' 2xl:h-6 2xl:w-6 m-1'/>
+                <span className=' lg:text-sm 2xl:font-bold'>10:00 - 21:30</span>
             </div>
                 <div className='flex mr-4 items-center cursor-pointer' onClick={()=>setactive(true)}>
-                    <GoLocation className=' h-6 w-6 m-1'/>
-                    <span className=' font-bold'>Інформація</span>
+                    <GoLocation className=' 2xl:h-6 2xl:w-6 m-1'/>
+                    <span className='lg:text-sm 2xl:font-bold'>Інформація</span>
                 </div>
                 <Info active={aciteve} setActive={setActiveClose}/>
             <div className='flex mr-4 items-center cursor-pointer'onClick={()=>setactiveAdress(true)}>
-                <AiOutlineInfoCircle className=' h-6 w-6 m-1' />
-                <span className=' font-bold'>Точки видачі</span>
+                <AiOutlineInfoCircle className=' 2xl:h-6 2xl:w-6 2xl:m-1' />
+                <span className='lg:text-sm 2xl:font-bold'>Точки видачі</span>
             </div>
             <Adresses active={aciteveAdress} setActive={setActiveAdressClose}></Adresses>
             <div className='flex mr-4 items-center'>
-                <BsFillTelephoneFill className=' h-6 w-6 m-1'/>
-                <span className=' font-bold'>+38 666 66 66 666</span>
+                <BsFillTelephoneFill className=' 2xl:h-6 2xl:w-6 m-1'/>
+                <span className='lg:text-sm 2xl:font-bold'>+38 666 66 66 666</span>
             </div>
         </div>
         </>

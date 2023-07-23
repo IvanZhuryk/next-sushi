@@ -10,9 +10,9 @@ type Props = {
 export const DrinksTypesList = (list:Props[]) => {
     console.log(list)
     return (
-        <div className=' max-w-full mt-3'>
+        <div className=' h-20 max-w-full flex mt-3 pl-2 items-center overflow-x-scroll overflow-visible   md:overflow-visible'>
             {Object.values(list).map((item)=> (
-                <DrinksTypesButton name={item.name} id={item.id}/>
+                <DrinksTypesButton key={item.id} name={item.name} id={item.id}/>
             ))}
         </div>
     )

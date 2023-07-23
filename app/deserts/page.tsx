@@ -1,10 +1,13 @@
 import DesertsItemList from "@/components/DesertsItemList";
+import { Main } from "@/components/Main";
+
 
 
 
 
 export default function Deserts() { 
     return (
-        <DesertsItemList></DesertsItemList>
+        <Main><DesertsItemList></DesertsItemList></Main>
+        
     )
 }

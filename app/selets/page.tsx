@@ -1,3 +1,4 @@
+import { Main } from "@/components/Main";
 import SeletstemList from "@/components/SeletsItemList";
 
 
@@ -5,6 +6,7 @@ import SeletstemList from "@/components/SeletsItemList";
 
 export default function Selects() { 
     return (
-        <SeletstemList></SeletstemList>
+        <Main><SeletstemList></SeletstemList></Main>
+        
     )
 }

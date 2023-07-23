@@ -1,4 +1,6 @@
 'use client'
+import { useAppDispatch, useAppSelector } from '@/app/hooks'
+import { setitems } from '@/app/slices/cartSlice'
 import React from 'react'
 type Props = {
     "id": number,
@@ -7,18 +9,10 @@ type Props = {
     "size":number,
     "title":string
 }
-async function postData({id,img,price,size,title}:Props) {
-    const response = await fetch(`http://localhost:5000/cart`,{
-        method:"POST",
-        body: JSON.stringify({id,image:img,price,size,title}),
-        headers:{
-            'Content-type': 'application/json; charset=UTF-8',
-        }
-    })
-    return response.json()
-}
+
 export const ItemButton = ({id, img, price, size, title}:Props) => {
+    const dispatch = useAppDispatch()
     return (
-        <button className=' bg-redBtn rounded text-white h-10 w-30 hover:scale-110 duration-300' onClick={()=>postData({id,img,price,size,title})}>в Корзину</button>
+        <button className=' bg-redBtn rounded text-white h-10 w-30 hover:scale-110 duration-300' onClick={()=>dispatch(setitems({id,image:img,price,size,title,count:0}))}>в Корзину</button>
     )
 }
