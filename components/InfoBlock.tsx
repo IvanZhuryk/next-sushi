@@ -5,6 +5,7 @@ import {AiOutlineInfoCircle} from 'react-icons/ai'
 import {BsFillTelephoneFill} from 'react-icons/bs'
 import { useState } from 'react'
 import Adresses from './Address'
+import Info from './Info'
 
 export const InfoBlock = () => {
     const [aciteve, setactive] = useState(false)
