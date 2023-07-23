@@ -2,7 +2,7 @@ import { Main } from "@/components/Main"
 import { ProductItem } from "@/components/ProductItem"
 
 async function getData() {
-  const response = await fetch(`http://localhost:5000/favorites`,{
+  const response = await fetch(`https://server-sushi.onrender.com/favorites`,{
       
   })
   return response.json()

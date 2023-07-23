@@ -9,7 +9,7 @@ type Props = {
 }
 async function getData() {
 
-    const response = await fetch(`http://localhost:5000/items?category=4`,{
+    const response = await fetch(`https://server-sushi.onrender.com/items?category=4`,{
         next:{
             revalidate:60
         }

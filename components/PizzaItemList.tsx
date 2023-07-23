@@ -12,7 +12,7 @@ async function getData(id:number) {
     if(id>0){
         type = `type=${id}`
     }else{type=''}
-    const response = await fetch(`http://localhost:5000/items?category=2&${type}`,{
+    const response = await fetch(`https://server-sushi.onrender.com/items?category=2&${type}`,{
         next:{
             revalidate:60
         }
