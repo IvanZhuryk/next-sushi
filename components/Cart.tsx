@@ -2,7 +2,7 @@
 import {useEffect, useState} from 'react'
 import {TbPaperBag } from 'react-icons/tb'
 import { useAppSelector, useAppDispatch } from '../app/hooks'
-import { setItemsFromLocal, setitems } from '@/app/slices/cartSlice'
+import { setItemsFromLocal } from '@/app/slices/cartSlice'
 import Modal from './Modal'
 import { BagItem } from './BagItem'
 

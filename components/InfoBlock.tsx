@@ -3,7 +3,6 @@ import {LuClock9} from 'react-icons/lu'
 import {GoLocation} from 'react-icons/go'
 import {AiOutlineInfoCircle} from 'react-icons/ai'
 import {BsFillTelephoneFill} from 'react-icons/bs'
-import Info from '@/app/info/page'
 import { useState } from 'react'
 import Adresses from './Address'
 

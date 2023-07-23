@@ -1,5 +1,5 @@
 'use client'
-import { useAppDispatch, useAppSelector } from '@/app/hooks'
+import { useAppDispatch } from '@/app/hooks'
 import { setitems } from '@/app/slices/cartSlice'
 import React from 'react'
 type Props = {
